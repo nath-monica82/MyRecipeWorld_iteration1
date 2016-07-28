@@ -1,0 +1,125 @@
+/* general setting for all the tags in all of my recipe world pages*/
+html,body,h1,h2,h3,ul,ol,li,p,a
+{
+	padding:0;
+	border:0;
+	margin:0;
+}
+
+
+body
+{
+	background-color:#5f5f5f;
+	padding:0px;
+        margin-top:0px;
+        margin-right:auto;
+	font-family:Georgia,"times new roman";
+	font-size:100%;
+	font:inherit;
+}
+header
+{
+        
+    border:3px solid black;	
+    margin:0px;
+    padding:0px;
+       
+}
+
+.hamburgermenu_nav 
+{
+     list-style-type:none;
+     display:inline;	
+}
+.hamburgermenu_nav li
+{
+
+     display:inline;
+}
+.hamburgermenu_nav a
+{
+   text-align:left;
+   font-size:20px;
+   text-decoration:none;
+   color:white;
+}
+
+
+
+header img
+{
+  display:inline;
+   align:center;
+ }
+
+
+
+.header_nav
+{
+   list-style-type:none
+    display:inline;
+    float:right;
+}
+.header_nav li
+{
+   display:inline;
+}
+.header_nav a
+{
+    text-align:right;
+   font-size:20px;
+   text-decoration:none;
+   color:white;
+}
+
+<table class="footer">	
+           <tr>
+               	 <td><img src="images/footer.png"></td>
+		 <td><input type="button" value="suggest"></td>
+           </tr>
+       </table>
+
+
+
+
+
+
+1. Getting Started
+
+1.1 About Version Control
+1.2 A Short History of Git
+1.3 Git Basics
+1.4 The Command Line
+1.5 Installing Git
+1.6 First-Time Git Setup
+1.7 Getting Help
+1.8 Summary
+
+
+what is git config?what is it used for?what does he mean when he says set configuration variables?
+
+The first thing you should do when you install Git is to set your user name and email address.
+
+
+
+2. Git Basics
+
+2.1 Getting a Git Repository
+2.2 Recording Changes to the Repository
+2.3 Viewing the Commit History
+2.4 Undoing Things
+2.5 Working with Remotes
+2.6 Tagging
+2.7 Git Aliases
+2.8 Summary
+
+
+how to?
+1)configure 
+2)initialize a repository,
+3)begin and stop tracking files, 
+4)and stage and commit changes.
+5)ignore certain files and file patterns,
+6)how to undo mistakes quickly and easily,
+7)to browse the history of your project and view changes between commits,
+8)and how to push and pull from remote repositories.
